@@ -53,7 +53,7 @@ Clusters
 
 Requirements
 ------------
-The notebooks require lenstronomy release version 1.11.2.
+The notebooks require lenstronomy release version 1.12.5.
 Instructions for installing lenstronomy and its dependencies can be found in the Installation_
 section of the lenstronomy documentation.
 
